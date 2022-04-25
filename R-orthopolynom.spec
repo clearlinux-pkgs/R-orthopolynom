@@ -4,7 +4,7 @@
 #
 Name     : R-orthopolynom
 Version  : 1.0.5
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/orthopolynom_1.0-5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/orthopolynom_1.0-5.tar.gz
 Summary  : Collection of functions for orthogonal and orthonormal
